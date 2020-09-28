@@ -36,6 +36,8 @@ db.each("SELECT name FROM sqlite_master WHERE type = 'table'", (res, err) => {
     console.log(res);
 })
 
+
+
 db.close((err) => {
     if (err) {
         return console.log("Error during closing database");
