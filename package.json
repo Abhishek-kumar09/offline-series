@@ -11,7 +11,7 @@
     "react-dom": "^16.13.1",
     "react-player": "^2.6.1",
     "react-scripts": "3.4.3",
-    "sqlite3": "^5.0.0"
+    "sqlite3": "^5.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
